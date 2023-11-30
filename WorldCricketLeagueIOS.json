@@ -1,9 +1,9 @@
 {
-  "FirstPriorityMainMenuToLevel": "Admob",
-  "SecondPriorityMainMenuToLevel": "AppLovin",
+  "FirstPriorityMainMenuToLevel": "AppLovin",
+  "SecondPriorityMainMenuToLevel": "Admob",
   "ThirdPriorityMainMenuToLevel": "Unity",
-  "FirstPriorityLevelToLoading": "AppLovin",
-  "SecondPriorityLevelToLoading": "Admob",
+  "FirstPriorityLevelToLoading": "Admob",
+  "SecondPriorityLevelToLoading": "AppLovin",
   "ThirdPriorityLevelToLoading": "Unity",
   "FirstPriorityPause": "AppLovin",
   "SecondPriorityPause": "Admob",
@@ -26,16 +26,16 @@
   "SecondPrioritySmallBanner": "AppLovin",
   "FirstPriorityAppOpen": "Admob",
   "SecondPriorityAppOpen": "AppLovin",
-  "PlayButtonInstertitial": true,
-  "LevelButtonInstertitial": true,
-  "PauseButtonInstertitial": true,
-  "LevelCompleteInstertitial": true,
-  "LevelFailInstertitial": true,
-  "MainMenuInstertitial": true,
-  "MainBanner": true,
+  "PlayButtonInstertitial": false,
+  "LevelButtonInstertitial": false,
+  "PauseButtonInstertitial": false,
+  "LevelCompleteInstertitial": false,
+  "LevelFailInstertitial": false,
+  "MainMenuInstertitial": false,
+  "MainBanner": false,
   "SmallBanner": false,
-  "AppOpen": true,
-  "Rewarded": true  
+  "AppOpen": false,
+  "Rewarded": false  
 }
 
 //use these for Priority no any other
