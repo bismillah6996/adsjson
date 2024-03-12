@@ -20,7 +20,7 @@
   "FirstPriorityRewarded": "AppLovin",
   "SecondPriorityRewarded": "Unity",
   "ThirdPriorityRewarded": "AppLovin",
-  "FirstPriorityBanner": "Unity",
+  "FirstPriorityMRec": "AppLovin",
   "SecondPriorityBanner": "Unity",
   "FirstPrioritySmallBanner": "AppLovin",
   "SecondPrioritySmallBanner": "AppLovin",
@@ -32,7 +32,7 @@
   "LevelCompleteInstertitial": true,
   "LevelFailInstertitial": true,
   "MainMenuInstertitial": true,
-  "MainBanner": true,
+  "MRec": true,
   "SmallBanner": true,
   "AppOpen": true,
   "Rewarded": true  
