@@ -35,8 +35,8 @@
   "LevelCompleteInstertitial": true,
   "LevelFailInstertitial": true,
   "MainMenuInstertitial": true,
-  "MRec": false,
-  "SmallBanner": false,
+  "MRec": true,
+  "SmallBanner": true,
   "AppOpen": true,
-  "Rewarded": false  
+  "Rewarded": true  
 }
