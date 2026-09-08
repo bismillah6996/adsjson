@@ -17,7 +17,7 @@
   "FirstPriorityGamePlayToMainMenu": "Admob",
   "SecondPriorityGamePlayToMainMenu": "LevelPlay",
   
-  "FirstPriorityRewarded": "Admob",
+  "FirstPriorityRewarded": "LevelPlay",
   "SecondPriorityRewarded": "LevelPlay",
   
   "FirstPriorityMRec": "Admob",
