@@ -32,7 +32,7 @@
   "PlayButtonInstertitial": true,
   "LevelButtonInstertitial": true,
   "PauseButtonInstertitial": true,
-  "LevelCompleteInstertitial": true,
+  "LevelCompleteInstertitial": false,
   "LevelFailInstertitial": true,
   "MainMenuInstertitial": true,
   "MRec": true,
